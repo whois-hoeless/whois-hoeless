@@ -43,6 +43,82 @@
   
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=whois-hoeless&count_private=true&show_icons=true&theme=radical)
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-22.2%20thousand%20lines%20of%20code-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 220.6 kB Used in GitHub's Storage 
+ > 
+> 🏆 95 Contributions in the Year 2023
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 5 Public Repositories 
+ > 
+> 🔑 3 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌆 Daytime                8 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 % 
+🌃 Evening                81 commits          ████████████████████░░░░░   78.64 % 
+🌙 Night                  14 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.59 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   11 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.68 % 
+Tuesday                  3 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
+Wednesday                2 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
+Thursday                 20 commits          █████░░░░░░░░░░░░░░░░░░░░   19.42 % 
+Friday                   33 commits          ████████░░░░░░░░░░░░░░░░░   32.04 % 
+Saturday                 12 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.65 % 
+Sunday                   22 commits          █████░░░░░░░░░░░░░░░░░░░░   21.36 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Berlin
+
+💬 Programming Languages: 
+Text                     2 mins              █████████████████████████   98.85 % 
+Docker                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
+
+🔥 Editors: 
+VS Code                  2 mins              █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+spotify-now-playing      2 mins              █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Linux                    2 mins              █████████████████████████   100.00 % 
+```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   3 repos             ███████░░░░░░░░░░░░░░░░░░   27.27 % 
+C++                      2 repos             █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
+Shell                    1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+JavaScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+C#                       1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/whois-hoeless/whois-hoeless/master/assets/bar_graph.png)
+
+
+ Last Updated on 05/05/2023 23:17:15 UTC
 <!--END_SECTION:waka-->
 </div>
 <br>
