@@ -18,3 +18,4 @@ jobs:
           COMMIT_MESSAGE: "Update README.md"
           SHOW_LINES_OF_CODE: "True"
           SHOW_TOTAL_CODE_TIME: "True"
+          SHOW_LOC_CHART: "False"
