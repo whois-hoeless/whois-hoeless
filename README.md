@@ -14,16 +14,16 @@
 ## Activity:
 
   <!--START_SECTION:activity-->
-  1. 🗣 Commented on [#2](https://github.com/Ashesh3/MessageLoggerV3-BetterDiscord/issues/2) in [Ashesh3/MessageLoggerV3-BetterDiscord](https://github.com/Ashesh3/MessageLoggerV3-BetterDiscord)
-  2. ❗️ Closed issue [#21](https://github.com/DeSinc/SallyBot/issues/21) in [DeSinc/SallyBot](https://github.com/DeSinc/SallyBot)
-  3. 🗣 Commented on [#28](https://github.com/DeSinc/SallyBot/issues/28) in [DeSinc/SallyBot](https://github.com/DeSinc/SallyBot)
-  4. 🗣 Commented on [#28](https://github.com/DeSinc/SallyBot/issues/28) in [DeSinc/SallyBot](https://github.com/DeSinc/SallyBot)
-  5. 🗣 Commented on [#28](https://github.com/DeSinc/SallyBot/issues/28) in [DeSinc/SallyBot](https://github.com/DeSinc/SallyBot)
-  6. 💪 Opened PR [#28](https://github.com/DeSinc/SallyBot/pull/28) in [DeSinc/SallyBot](https://github.com/DeSinc/SallyBot)
-  7. ❗️ Closed issue [#223](https://github.com/justcallmekoko/ESP32Marauder/issues/223) in [justcallmekoko/ESP32Marauder](https://github.com/justcallmekoko/ESP32Marauder)
-  8. 🗣 Commented on [#377](https://github.com/amd64fox/SpotX/issues/377) in [amd64fox/SpotX](https://github.com/amd64fox/SpotX)
-  9. ❗️ Opened issue [#377](https://github.com/amd64fox/SpotX/issues/377) in [amd64fox/SpotX](https://github.com/amd64fox/SpotX)
-  10. 🗣 Commented on [#21](https://github.com/DeSinc/SallyBot/issues/21) in [DeSinc/SallyBot](https://github.com/DeSinc/SallyBot)
+1. 🗣 Commented on [#2](https://github.com/Ashesh3/MessageLoggerV3-BetterDiscord/issues/2) in [Ashesh3/MessageLoggerV3-BetterDiscord](https://github.com/Ashesh3/MessageLoggerV3-BetterDiscord)
+2. ❗️ Closed issue [#21](https://github.com/DeSinc/SallyBot/issues/21) in [DeSinc/SallyBot](https://github.com/DeSinc/SallyBot)
+3. 🗣 Commented on [#28](https://github.com/DeSinc/SallyBot/issues/28) in [DeSinc/SallyBot](https://github.com/DeSinc/SallyBot)
+4. 🗣 Commented on [#28](https://github.com/DeSinc/SallyBot/issues/28) in [DeSinc/SallyBot](https://github.com/DeSinc/SallyBot)
+5. 🗣 Commented on [#28](https://github.com/DeSinc/SallyBot/issues/28) in [DeSinc/SallyBot](https://github.com/DeSinc/SallyBot)
+6. 💪 Opened PR [#28](https://github.com/DeSinc/SallyBot/pull/28) in [DeSinc/SallyBot](https://github.com/DeSinc/SallyBot)
+7. ❗️ Closed issue [#223](https://github.com/justcallmekoko/ESP32Marauder/issues/223) in [justcallmekoko/ESP32Marauder](https://github.com/justcallmekoko/ESP32Marauder)
+8. 🗣 Commented on [#377](https://github.com/amd64fox/SpotX/issues/377) in [amd64fox/SpotX](https://github.com/amd64fox/SpotX)
+9. ❗️ Opened issue [#377](https://github.com/amd64fox/SpotX/issues/377) in [amd64fox/SpotX](https://github.com/amd64fox/SpotX)
+10. 🗣 Commented on [#21](https://github.com/DeSinc/SallyBot/issues/21) in [DeSinc/SallyBot](https://github.com/DeSinc/SallyBot)
   <!--END_SECTION:activity-->
 
 <br>
