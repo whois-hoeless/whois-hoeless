@@ -13,6 +13,7 @@
 
 ## Activity:
 
+<p align="center">
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#2](https://github.com/Ashesh3/MessageLoggerV3-BetterDiscord/issues/2) in [Ashesh3/MessageLoggerV3-BetterDiscord](https://github.com/Ashesh3/MessageLoggerV3-BetterDiscord)
 2. ❗️ Closed issue [#21](https://github.com/DeSinc/SallyBot/issues/21) in [DeSinc/SallyBot](https://github.com/DeSinc/SallyBot)
@@ -25,26 +26,32 @@
 9. ❗️ Opened issue [#377](https://github.com/amd64fox/SpotX/issues/377) in [amd64fox/SpotX](https://github.com/amd64fox/SpotX)
 10. 🗣 Commented on [#21](https://github.com/DeSinc/SallyBot/issues/21) in [DeSinc/SallyBot](https://github.com/DeSinc/SallyBot)
 <!--END_SECTION:activity-->
+</p>
 
 <br>
 
 ## Spotify:
 
+<p align="center">
 [![Spotify](https://whois-hoeless.vercel.app/api/spotify)](https://open.spotify.com/user/heanchenhorst)
+</p>
 
 <br>
 
 ## Here are my stats:
 
+<p align="center">
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=whois-hoeless&count_private=true&show_icons=true&theme=radical)
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-
+</p>
 <br>
 
 ## Here, have snek :>
 
+<p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/whois-hoeless/whois-hoeless/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/whois-hoeless/whois-hoeless/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/whois-hoeless/whois-hoeless/output/github-contribution-grid-snake.svg">
+</p>
