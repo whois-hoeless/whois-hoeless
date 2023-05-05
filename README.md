@@ -13,6 +13,8 @@
 
 ## Activity:
 
+[![Spotify](https://whois-hoeless.vercel.app/api/spotify)](https://open.spotify.com/user/heanchenhorst)
+
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#2](https://github.com/Ashesh3/MessageLoggerV3-BetterDiscord/issues/2) in [Ashesh3/MessageLoggerV3-BetterDiscord](https://github.com/Ashesh3/MessageLoggerV3-BetterDiscord)
 2. ❗️ Closed issue [#21](https://github.com/DeSinc/SallyBot/issues/21) in [DeSinc/SallyBot](https://github.com/DeSinc/SallyBot)
