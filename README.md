@@ -11,6 +11,12 @@
 
 <br>
 
+## Activity:
+
+<!--START_SECTION:activity-->
+
+<br>
+
 ## Here are my stats:
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=whois-hoeless&count_private=true&show_icons=true&theme=radical)
