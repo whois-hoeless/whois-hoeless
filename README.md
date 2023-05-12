@@ -16,14 +16,14 @@
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [whois-hoeless/whois-hoeless](https://github.com/whois-hoeless/whois-hoeless)<br>
 2. ⬆️ Pushed 1 commit(s) to [whois-hoeless/whois-hoeless](https://github.com/whois-hoeless/whois-hoeless)<br>
-3. 💬 Commented on [#377](https://github.com/amd64fox/SpotX/issues/377#issuecomment-1544800206) in [amd64fox/SpotX](https://github.com/amd64fox/SpotX)<br>
+3. ⬆️ Pushed 1 commit(s) to [whois-hoeless/whois-hoeless](https://github.com/whois-hoeless/whois-hoeless)<br>
 4. ⬆️ Pushed 1 commit(s) to [whois-hoeless/whois-hoeless](https://github.com/whois-hoeless/whois-hoeless)<br>
 5. ⬆️ Pushed 1 commit(s) to [whois-hoeless/whois-hoeless](https://github.com/whois-hoeless/whois-hoeless)<br>
 6. ⬆️ Pushed 1 commit(s) to [whois-hoeless/whois-hoeless](https://github.com/whois-hoeless/whois-hoeless)<br>
 7. ⬆️ Pushed 1 commit(s) to [whois-hoeless/whois-hoeless](https://github.com/whois-hoeless/whois-hoeless)<br>
 8. ⬆️ Pushed 1 commit(s) to [whois-hoeless/whois-hoeless](https://github.com/whois-hoeless/whois-hoeless)<br>
 9. ⬆️ Pushed 1 commit(s) to [whois-hoeless/whois-hoeless](https://github.com/whois-hoeless/whois-hoeless)<br>
-10. ⬆️ Pushed 1 commit(s) to [whois-hoeless/whois-hoeless](https://github.com/whois-hoeless/whois-hoeless)<br>
+10. 💬 Commented on [#377](https://github.com/amd64fox/SpotX/issues/377#issuecomment-1544800206) in [amd64fox/SpotX](https://github.com/amd64fox/SpotX)<br>
 11. ⬆️ Pushed 1 commit(s) to [whois-hoeless/whois-hoeless](https://github.com/whois-hoeless/whois-hoeless)<br>
 12. ⬆️ Pushed 1 commit(s) to [whois-hoeless/whois-hoeless](https://github.com/whois-hoeless/whois-hoeless)<br>
 13. ⬆️ Pushed 1 commit(s) to [whois-hoeless/whois-hoeless](https://github.com/whois-hoeless/whois-hoeless)<br>
