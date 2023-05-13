@@ -42,7 +42,7 @@
 
 <div align="center">
 
-[![Spotify](https://whois-hoeless.vercel.app/api/spotify)](https://open.spotify.com/user/heanchenhorst)
+[![Spotify](https://whois-hoeless.vercel.app/api/spotify?background_color=0d1117&border_color=0d1117)](https://open.spotify.com/user/heanchenhorst)
 </div>
 
 <br>
