@@ -14,7 +14,7 @@
 ## Activity:
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [whois-hoeless/whois-hoeless](https://github.com/whois-hoeless/whois-hoeless)<br>
+1. ❗️ Opened issue [#64](https://github.com/circleguard/ossapi/issues/64) in [circleguard/ossapi](https://github.com/circleguard/ossapi)<br>
 2. ⬆️ Pushed 1 commit(s) to [whois-hoeless/whois-hoeless](https://github.com/whois-hoeless/whois-hoeless)<br>
 3. ⬆️ Pushed 1 commit(s) to [whois-hoeless/whois-hoeless](https://github.com/whois-hoeless/whois-hoeless)<br>
 4. ⬆️ Pushed 1 commit(s) to [whois-hoeless/whois-hoeless](https://github.com/whois-hoeless/whois-hoeless)<br>
