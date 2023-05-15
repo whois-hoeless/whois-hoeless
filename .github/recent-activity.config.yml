@@ -1,7 +1,8 @@
 settings:
   commit_msg: "Update README"
   max_lines: 20
-messages:
+  ignored_repos:
+    - whois-hoeless/whois-hoeless
   comments: "💬 Commented on {ID} in {REPO}"
   push: "⬆️ Pushed {AMOUNT} commit(s) to {REPO}"
   issue_opened: "❗️ Opened issue {ID} in {REPO}"
