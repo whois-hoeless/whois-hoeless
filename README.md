@@ -14,26 +14,8 @@
 ## Activity:
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [whois-hoeless/whois-hoeless](https://github.com/whois-hoeless/whois-hoeless)<br>
-2. ⬆️ Pushed 1 commit(s) to [whois-hoeless/whois-hoeless](https://github.com/whois-hoeless/whois-hoeless)<br>
-3. ⬆️ Pushed 1 commit(s) to [whois-hoeless/whois-hoeless](https://github.com/whois-hoeless/whois-hoeless)<br>
-4. ⬆️ Pushed 1 commit(s) to [whois-hoeless/whois-hoeless](https://github.com/whois-hoeless/whois-hoeless)<br>
-5. ⬆️ Pushed 1 commit(s) to [whois-hoeless/whois-hoeless](https://github.com/whois-hoeless/whois-hoeless)<br>
-6. ⬆️ Pushed 1 commit(s) to [whois-hoeless/whois-hoeless](https://github.com/whois-hoeless/whois-hoeless)<br>
-7. ⬆️ Pushed 1 commit(s) to [whois-hoeless/whois-hoeless](https://github.com/whois-hoeless/whois-hoeless)<br>
-8. ⬆️ Pushed 1 commit(s) to [whois-hoeless/whois-hoeless](https://github.com/whois-hoeless/whois-hoeless)<br>
-9. ⬆️ Pushed 1 commit(s) to [whois-hoeless/whois-hoeless](https://github.com/whois-hoeless/whois-hoeless)<br>
-10. ⬆️ Pushed 1 commit(s) to [whois-hoeless/whois-hoeless](https://github.com/whois-hoeless/whois-hoeless)<br>
-11. ⬆️ Pushed 1 commit(s) to [whois-hoeless/whois-hoeless](https://github.com/whois-hoeless/whois-hoeless)<br>
-12. ⬆️ Pushed 1 commit(s) to [whois-hoeless/whois-hoeless](https://github.com/whois-hoeless/whois-hoeless)<br>
-13. ⬆️ Pushed 1 commit(s) to [whois-hoeless/whois-hoeless](https://github.com/whois-hoeless/whois-hoeless)<br>
-14. ⬆️ Pushed 1 commit(s) to [whois-hoeless/whois-hoeless](https://github.com/whois-hoeless/whois-hoeless)<br>
-15. ⬆️ Pushed 1 commit(s) to [whois-hoeless/whois-hoeless](https://github.com/whois-hoeless/whois-hoeless)<br>
-16. ⬆️ Pushed 1 commit(s) to [whois-hoeless/whois-hoeless](https://github.com/whois-hoeless/whois-hoeless)<br>
-17. 💬 Commented on [#64](https://github.com/circleguard/ossapi/issues/64#issuecomment-1547231142) in [circleguard/ossapi](https://github.com/circleguard/ossapi)<br>
-18. ⬆️ Pushed 1 commit(s) to [whois-hoeless/whois-hoeless](https://github.com/whois-hoeless/whois-hoeless)<br>
-19. ⬆️ Pushed 1 commit(s) to [whois-hoeless/whois-hoeless](https://github.com/whois-hoeless/whois-hoeless)<br>
-20. ⬆️ Pushed 1 commit(s) to [whois-hoeless/whois-hoeless](https://github.com/whois-hoeless/whois-hoeless)<br>
+1. 💬 Commented on [#64](https://github.com/circleguard/ossapi/issues/64#issuecomment-1547231142) in [circleguard/ossapi](https://github.com/circleguard/ossapi)<br>
+2. ❗️ Opened issue [#64](https://github.com/circleguard/ossapi/issues/64) in [circleguard/ossapi](https://github.com/circleguard/ossapi)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <br>
