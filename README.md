@@ -35,7 +35,7 @@
   
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=whois-hoeless&count_private=true&show_icons=true&theme=radical)](https://github.com/whois-hoeless)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-8%20hrs%2027%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-8%20hrs%2032%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
@@ -100,17 +100,17 @@ Linux                    7 hrs 39 mins       ███████████�
 **I Mostly Code in Python** 
 
 ```text
-Python                   4 repos             ███████░░░░░░░░░░░░░░░░░░   28.57 % 
-C++                      2 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-Jinja                    1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
-Shell                    1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
-JavaScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+Python                   4 repos             ████████░░░░░░░░░░░░░░░░░   30.77 % 
+C++                      2 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
+Jinja                    1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+Shell                    1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+JavaScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
 ```
 
 
 
 
- Last Updated on 16/05/2023 20:19:12 UTC
+ Last Updated on 16/05/2023 20:38:03 UTC
 <!--END_SECTION:waka-->
 </div>
 <br>
