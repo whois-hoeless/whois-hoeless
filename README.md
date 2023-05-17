@@ -14,7 +14,6 @@
 ## Activity:
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#64](https://github.com/circleguard/ossapi/issues/64#issuecomment-1547231142) in [circleguard/ossapi](https://github.com/circleguard/ossapi)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <br>
