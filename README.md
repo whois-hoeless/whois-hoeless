@@ -35,9 +35,9 @@
 
 <div align="center">
     
- [![My Github graph](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=whois-hoeless&theme=radical)](https://github.com/whois-hoeless)
  [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=whois-hoeless&count_private=true&show_icons=true&theme=radical)](https://github.com/whois-hoeless)
-  
+ [![My Github graph](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=whois-hoeless&theme=radical)](https://github.com/whois-hoeless)
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-11%20hrs%2056%20mins-blue)
 
