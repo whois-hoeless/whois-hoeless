@@ -15,8 +15,6 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [whois-hoeless/Aliucord-Yami](https://github.com/whois-hoeless/Aliucord-Yami)<br>
-2. ⬆️ Pushed 1 commit(s) to [whois-hoeless/Aliucord-Yami](https://github.com/whois-hoeless/Aliucord-Yami)<br>
-3. 📔 Created new repository [whois-hoeless/Aliucord-Yami](https://github.com/whois-hoeless/Aliucord-Yami)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <br>
