@@ -11,23 +11,6 @@
 
 <br>
 
-## Activity:
-
-<!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [whois-hoeless/Aliucord-Yami](https://github.com/whois-hoeless/Aliucord-Yami)<br>
-<!--RECENT_ACTIVITY:end-->
-
-<br>
-
-## Spotify:
-
-<div align="center">
-
-[![Spotify](https://whois-hoeless.vercel.app/api/spotify?background_color=0d1117&border_color=090d13)](https://open.spotify.com/user/heanchenhorst)
-</div>
-
-<br>
-
 ## Here are my stats:
 
 <div align="center">
@@ -117,6 +100,15 @@ Shell                    1 repo              ██░░░░░░░░░�
  Last Updated on 24/05/2023 19:12:51 UTC
 <!--END_SECTION:waka-->
 </div>
+<br>
+
+## Spotify:
+
+<div align="center">
+
+[![Spotify](https://whois-hoeless.vercel.app/api/spotify?background_color=0d1117&border_color=090d13)](https://open.spotify.com/user/heanchenhorst)
+</div>
+
 <br>
 
 ## Here, have snek :>
