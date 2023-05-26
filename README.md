@@ -31,7 +31,7 @@
  > 
 > 🏆 155 Contributions in the Year 2023
  > 
-> 🚫 Not Opted to Hire
+> 💼 Opted to Hire
  > 
 > 📜 6 Public Repositories 
  > 
@@ -97,7 +97,7 @@ Shell                    1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 26/05/2023 20:38:03 UTC
+ Last Updated on 26/05/2023 21:00:56 UTC
 <!--END_SECTION:waka-->
 </div>
 <br>
