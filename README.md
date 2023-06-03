@@ -111,15 +111,6 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 <br>
 
-## Profile Views:
-
-<div align="center">
-  
-<img src="http://counter.seku.su/cmoe?name=whois-hoeless" alt="views" />
-</div>
-
-<br>
-
 ## Here, have snek :>
 <div align="center">
 <picture>
