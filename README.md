@@ -19,7 +19,7 @@
  [![My Github graph](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=whois-hoeless&theme=radical)](https://github.com/whois-hoeless)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-40%20hrs%2043%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-40%20hrs%2032%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue)
 
@@ -27,7 +27,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 221.3 kB Used in GitHub's Storage 
+> 📦 221.4 kB Used in GitHub's Storage 
  > 
 > 🏆 239 Contributions in the Year 2023
  > 
@@ -97,7 +97,7 @@ Jinja                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 18/06/2023 21:35:00 UTC
+ Last Updated on 18/06/2023 22:06:14 UTC
 <!--END_SECTION:waka-->
 </div>
 <br>
