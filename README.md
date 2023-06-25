@@ -8,6 +8,7 @@
 - I love to code
 - I am a huge fan of Cybersecurity
 - I am an AI enthusiast
+- Privacy is a universal right
 
 <br>
 
