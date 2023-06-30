@@ -20,7 +20,7 @@
  [![My Github graph](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=whois-hoeless&theme=radical)](https://github.com/whois-hoeless)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-41%20hrs%2021%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-42%20hrs%2055%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
 
@@ -65,16 +65,20 @@ Sunday                   109 commits         ████████░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-Python                   38 mins             █████████████████████████   100.00 % 
+Python                   1 hr 49 mins        █████████████████████░░░░   82.98 % 
+Bash                     10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 % 
+Git Config               6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.15 % 
+INI                      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
 
 🔥 Editors: 
-VS Code                  38 mins             █████████████████████████   100.00 % 
+VS Code                  2 hrs 11 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-PySilon-malware          38 mins             █████████████████████████   100.00 % 
+PySilon-malware          2 hrs 11 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    38 mins             █████████████████████████   100.00 % 
+Linux                    2 hrs 11 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -90,7 +94,7 @@ Jinja                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 30/06/2023 22:06:33 UTC
+ Last Updated on 30/06/2023 22:35:34 UTC
 <!--END_SECTION:waka-->
 </div>
 <br>
